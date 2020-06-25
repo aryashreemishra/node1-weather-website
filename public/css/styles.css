@@ -1,7 +1,8 @@
 body{
-    background-color: rgba(172, 116, 76, 0.13);
-    color: #333333;
-    font-family: Arial;
+    background-image: url('../img/rain2.jpg');
+    background-size: cover;
+    color: bisque;
+    font-family: cursive;
     max-width: 650px;
     margin: 0 auto;
     padding: 0 13px;
@@ -16,8 +17,8 @@ body{
 }
 
 footer{
-    color: #456774;
-    border-top: 1px solid #eeeeee;
+    color: black;
+    border-top: 1px solid black;
     margin-top: 16px;
     padding: 5px 0;
 }
@@ -33,7 +34,7 @@ h1{
 }
 
 header a{
-    color: #428dcadc;
+    color: springgreen;
     margin-right: 16px;
     text-decoration: none;
 }
